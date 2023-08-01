@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VMaltaL
+- 👋 Hi, I’m Victoria Malta
 - 👀 I’m interested in Tech, Science, Geosciences, Data Science, language learning
      (also, reading books, crochet, gym and rollerskating)
 - 🌱 I’m currently learning SQL and Geophysics (I'm undergrad student)
